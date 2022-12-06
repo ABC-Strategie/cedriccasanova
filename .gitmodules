@@ -1,0 +1,4 @@
+[submodule "legalsylvain/stock-logistics-barcode"]
+	path = legalsylvain/stock-logistics-barcode
+	url = git@github.com:legalsylvain/stock-logistics-barcode.git
+	branch = 16.0-mig-barcodes_generator_product
