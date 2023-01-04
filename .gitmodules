@@ -2,3 +2,8 @@
 	path = legalsylvain/stock-logistics-barcode
 	url = git@github.com:legalsylvain/stock-logistics-barcode.git
 	branch = 16.0-mig-barcodes_generator_product
+
+[submodule "ABC-Strategie-GitHub/abc_x_cedric"]
+	path = ABC-Strategie-GitHub/abc_x_cedric
+	url = git@github.com:ABC-Strategie-GitHub/abc_x_cedric.git
+	branch = 16.0
